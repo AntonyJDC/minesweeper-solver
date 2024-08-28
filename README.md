@@ -28,7 +28,7 @@ Este proyecto es una herramienta de solución automatizada para el juego de Busc
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/minesweeper-solver.git
+   git clone https://github.com/AntonyJDC/minesweeper-solver.git
    cd minesweeper-solver
    ```
 
@@ -46,7 +46,9 @@ Este proyecto es una herramienta de solución automatizada para el juego de Busc
 
 4. Ajusta las coordenadas de la cuadrícula en la pantalla según tu configuración:
 
+    ```bash
     left, top, right, bottom = 195, 356, 575, 736
+    ```
 
 ## Uso
 
